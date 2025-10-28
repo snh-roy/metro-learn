@@ -21,7 +21,7 @@ const MetroLearnWireframes = () => {
       <div className="max-w-7xl mx-auto">
         <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
           <h1 className="text-3xl font-bold mb-2">MetroLearn System Wireframes</h1>
-          <p className="text-gray-600 mb-4">Complete UI/UX Design Specification</p>
+          
           
           <div className="flex gap-2 flex-wrap">
             {views.map(v => (
